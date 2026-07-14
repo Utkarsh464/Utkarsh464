@@ -1,59 +1,74 @@
-# Hi, I'm Utkarsh
+# Utkarsh Solanki
 
-Cybersecurity student focused on penetration testing, network security, and defensive operations. I learn by doing — working through structured paths, documenting everything, and building tools to reinforce concepts.
+Final-year BCA student and cybersecurity enthusiast. I work through hands-on labs, document everything, and build tools to reinforce what I learn. Currently looking for a paid cybersecurity internship.
 
 ---
 
 ## About Me
 
-I started cybersecurity with zero technical background and worked through TryHackMe's Pre-Security path, followed by Cyber Security 101 (14 modules, completed), and am now progressing through the Jr Penetration Tester path.
+I'm a final-year BCA student from India who started cybersecurity from zero technical background. I've completed two structured learning paths on TryHackMe (Pre-Security, Cyber Security 101) and am working through the Jr Penetration Tester path. Every room, lab, and script I work through gets documented as structured technical writeups — not just notes, but methodology, commands, configuration, and what I learned from each failure.
 
-Every room, lab, and script gets documented — not as notes, but as structured technical writeups with methodology, commands, configuration, troubleshooting, and what I actually learned from each failure.
+I'm interested in offensive security, network security, Python security automation, and building practical projects that demonstrate my skills.
 
 ## Currently
 
-- **Jr Penetration Tester** — 27% complete (through Nmap, network recon, pentest foundations)
-- **Python security tooling** — building small tools (port scanner, hash cracker, password auditor) to automate tasks I'd otherwise do manually
-- **Lab work** — exploiting Metasploitable 2 (vsFTPd backdoor, DVWA brute force)
+- **Jr Penetration Tester** (TryHackMe) — 27% complete (through Nmap, network recon, pentest methodology)
+- **Python security tools** — building small automation tools: port scanner, hash cracker, password auditor
+- **Lab work** — exploiting Metasploitable 2 (vsFTPd backdoor CVE-2011-2523, DVWA brute force with Hydra)
+- **Technical documentation** — every project gets structured writeups with architecture, design decisions, and troubleshooting
 
-## Featured Repositories
+## Featured Projects
 
-| Repository | Why It Matters |
+| Project | Why It Matters |
 |---|---|
-| [tryhackme-writeups](https://github.com/Utkarsh464/tryhackme-writeups) | 700+ pages of structured documentation across 3 learning paths — 85+ rooms with commands, concepts, tools, cheat sheets, and diagrams. My strongest portfolio asset. |
-| [labs](https://github.com/Utkarsh464/labs) | Penetration testing lab reports against Metasploitable 2. Documents methodology, troubleshooting, and remediation — not just successful exploits. |
-| [chat-server](https://github.com/Utkarsh464/chat-server) | Multi-threaded TCP chat server in pure Python. Architecture diagrams, design decisions, problems encountered, honest retrospective on what I'd do differently. |
-| [Notes-cyber-security](https://github.com/Utkarsh464/Notes-cyber-security) | 12,000+ lines of structured study notes across networking, Linux, web security, Python, and AI security. |
+| [tryhackme-writeups](https://github.com/Utkarsh464/tryhackme-writeups) | 700+ pages across 3 learning paths — 85+ rooms with commands, concepts, tools, cheat sheets, and diagrams. Proves I can document security work thoroughly. |
+| [labs](https://github.com/Utkarsh464/labs) | Penetration testing lab reports against Metasploitable 2. Documents real exploit workflows including troubleshooting failed attempts — not just successful ones. |
+| [chat-server](https://github.com/Utkarsh464/chat-server) | Multi-threaded TCP chat server in pure Python. Includes architecture diagrams, design decisions, and honest retrospective on what I'd improve. |
+| [Notes-cyber-security](https://github.com/Utkarsh464/Notes-cyber-security) | 12,000+ lines of structured study notes across networking, Linux, web security, and Python — built while studying, organized for reference. |
 
-## Technologies
+## Technical Skills
 
-**Languages:** Python, Bash, SQL
-
-**Security:** Nmap, Metasploit, Burp Suite, Hydra, Wireshark, John the Ripper, Gobuster, SQLMap
-
-**Platforms:** TryHackMe, Metasploitable 2, Linux (Ubuntu), Windows (CLI, PowerShell, AD basics)
-
-**Concepts:** Network enumeration, vulnerability assessment, exploitation, OWASP Top 10, incident response, SIEM fundamentals
-
-## Learning Roadmap
-
-| Path | Status |
+| Category | Skills |
 |---|---|
-| Pre-Security (TryHackMe) | Completed |
-| Cyber Security 101 (TryHackMe) | Completed |
-| Jr Penetration Tester (TryHackMe) | In progress (27%) |
-| Python for security automation | Building |
-| Web application hacking | Next |
-| Active Directory / Cloud | Planned |
+| **Programming** | Python (sockets, threading, CLI tools), Bash scripting, SQL |
+| **Operating Systems** | Linux (Ubuntu, CLI administration, bash), Windows (CMD, PowerShell basics) |
+| **Networking** | OSI/TCP-IP models, DNS, HTTP, subnetting, Nmap, Wireshark, tcpdump |
+| **Security Tools** | Nmap, Metasploit, Burp Suite, Hydra, John the Ripper, Gobuster, SQLMap, Nikto |
+| **Security Concepts** | Vulnerability assessment, exploitation, OWASP Top 10, incident response, SIEM basics |
+| **Platforms** | TryHackMe, Metasploitable 2, Kali Linux |
+
+## Current Learning
+
+- Web application security (Burp Suite, OWASP Top 10 exploitation)
+- Python for security automation (extending my tooling)
+- Active Directory fundamentals (planned)
+- Privilege escalation techniques (Linux and Windows)
+
+## Goals for 2026
+
+- Complete the Jr Penetration Tester path on TryHackMe
+- Build 2-3 original Python security tools and publish them
+- Write a comprehensive penetration testing report based on lab work
+- Obtain a paid cybersecurity internship (SOC Analyst, Security Analyst, or junior pentest role)
+- Expand into Active Directory security and web application testing
+
+## GitHub Activity
+
+<!--
+GitHub stats images from github-readme-stats
+-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Utkarsh464&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh464&layout=compact&theme=transparent&hide_border=true)
 
 ## TryHackMe
 
 Profile: [utkarsshh](https://tryhackme.com/p/utkarsshh)
-Paths: Pre-Security ✅ · Cyber Security 101 ✅ · Jr Pentester 🟡
+Paths: Pre-Security ✅ · Cyber Security 101 ✅ · Jr Penetration Tester 🟡
 Badge: SEC0 Professional Certification
 
 ## Contact
 
-- [LinkedIn](https://linkedin.com/in/utkarsh-solanki-337806252)
-- [TryHackMe](https://tryhackme.com/p/utkarsshh)
-- [GitHub](https://github.com/Utkarsh464)
+- **Email:** utkarshsolani776@gmail.com
+- **LinkedIn:** [linkedin.com/in/utkarsh-solanki-337806252](https://linkedin.com/in/utkarsh-solanki-337806252)
+- **GitHub:** [github.com/Utkarsh464](https://github.com/Utkarsh464)
+- **TryHackMe:** [tryhackme.com/p/utkarsshh](https://tryhackme.com/p/utkarsshh)
