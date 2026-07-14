@@ -28,7 +28,7 @@ $ current_mission
 ```
 
 ▸ **Jr Penetration Tester** — Nmap, network recon, pentest methodology (27% complete)
-▸ **Python tooling** — building and maintaining [cyber-utils](https://github.com/Utkarsh464/cyber-utils)
+▸ **Python tooling** — building and maintaining cyber-utils
 ▸ **Lab work** — exploiting Metasploitable 2 across multiple services
 ▸ **Documentation** — architecture diagrams, design decisions, troubleshooting logs
 
