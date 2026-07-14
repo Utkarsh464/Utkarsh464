@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=480&lines=Utkarsh+Solanki;security+researcher+%7C+bca+student;seeking+cybersecurity+internship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=808080&center=true&vCenter=true&width=480&lines=Utkarsh+Solanki;security+researcher+%7C+bca+student;seeking+cybersecurity+internship" alt="Typing SVG" />
 </p>
 
 ---
@@ -73,13 +73,13 @@ $ terminal_status
 ```
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Utkarsh464&theme=dark&hide_border=true&background=transparent&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Utkarsh464&theme=dark&hide_border=true&background=transparent&ring=808080&fire=808080&currStreakLabel=808080" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Utkarsh464?style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github" />
-  <img src="https://img.shields.io/github/stars/Utkarsh464?style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github" />
-  <img src="https://img.shields.io/badge/TryHackMe-utkarsshh-00FF41?style=for-the-badge&labelColor=0D1117&logo=tryhackme" />
+  <img src="https://img.shields.io/github/followers/Utkarsh464?style=for-the-badge&color=808080&labelColor=0D1117&logo=github" />
+  <img src="https://img.shields.io/github/stars/Utkarsh464?style=for-the-badge&color=808080&labelColor=0D1117&logo=github" />
+  <img src="https://img.shields.io/badge/TryHackMe-utkarsshh-808080?style=for-the-badge&labelColor=0D1117&logo=tryhackme" />
 </p>
 
 ---
