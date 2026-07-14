@@ -74,7 +74,28 @@ $ cat learning_path
 
 **Planned:** Active Directory security · Cloud security fundamentals
 
----
+
+```
+$ stats
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh464&show_icons=true&hide_border=true&bg_color=0D1117&text_color=808080&icon_color=808080&title_color=808080&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117&color=808080" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0D1117&color=808080" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117&color=808080" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0D1117&color=808080" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Utkarsh464?style=for-the-badge&color=808080&labelColor=0D1117&logo=github" />
+  <img src="https://img.shields.io/github/stars/Utkarsh464?style=for-the-badge&color=808080&labelColor=0D1117&logo=github" />
+  <img src="https://img.shields.io/badge/TryHackMe-utkarsshh-808080?style=for-the-badge&labelColor=0D1117&logo=tryhackme" />
+</p>
+
 ---
 
 ```
