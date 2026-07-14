@@ -48,13 +48,9 @@ Every room, lab, and script gets documented — not as notes, but as structured 
 
 ## TryHackMe
 
-<div align="center">
-
-| Profile | Paths | Badges |
-|---------|-------|--------|
-| [utkarsshh](https://tryhackme.com/p/utkarsshh) | Pre-Security ✅ · Cyber Security 101 ✅ · Jr Pentester 🟡 | SEC0 Professional Certification |
-
-</div>
+Profile: [utkarsshh](https://tryhackme.com/p/utkarsshh)
+Paths: Pre-Security ✅ · Cyber Security 101 ✅ · Jr Pentester 🟡
+Badge: SEC0 Professional Certification
 
 ## Contact
 
