@@ -28,7 +28,7 @@ $ current_mission
 ```
 
 ▸ **Jr Penetration Tester** — Nmap, network recon, pentest methodology (27% complete)
-▸ **Python tooling** — building and maintaining [cybersecurity-python-tools](https://github.com/Utkarsh464/cybersecurity-python-tools)
+▸ **Python tooling** — building and maintaining [cyber-utils](https://github.com/Utkarsh464/cyber-utils)
 ▸ **Lab work** — exploiting Metasploitable 2 across multiple services
 ▸ **Documentation** — architecture diagrams, design decisions, troubleshooting logs
 
@@ -59,7 +59,7 @@ $ featured_operations
 
 [**chat-server**](https://github.com/Utkarsh464/chat-server) · Multi-threaded TCP chat server in pure Python. Architecture diagrams, design decisions, honest retrospective. Shows understanding of sockets, threading, and TCP state.
 
-[**cybersecurity-python-tools**](https://github.com/Utkarsh464/cybersecurity-python-tools) · Portable Python security utilities — port scanner, hash cracker, password auditor, and PDF cracker. Built for learning and lab use.
+[**cyber-utils**](https://github.com/Utkarsh464/cyber-utils) · Portable Python security utilities — port scanner, hash cracker, password auditor, and PDF cracker. Built for learning and lab use.
 
 [**notes-cyber-security**](https://github.com/Utkarsh464/Notes-cyber-security) · 12,000+ lines of structured study notes across networking, Linux, web security, Python, and AI security.
 
