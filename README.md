@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=808080&center=true&vCenter=true&width=480&lines=Utkarsh+Solanki;security+researcher;final-year+bca+student" alt="Typing SVG" />
+<code>> Utkarsh Solanki</code>
 </p>
 
 ---
