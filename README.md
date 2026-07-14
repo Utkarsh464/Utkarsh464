@@ -75,9 +75,6 @@ $ cat learning_path
 **Planned:** Active Directory security · Cloud security fundamentals
 
 
-```
-$ stats
-```
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh464&show_icons=true&hide_border=true&bg_color=0D1117&text_color=808080&icon_color=808080&title_color=808080&count_private=true" />
