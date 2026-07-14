@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=808080&center=true&vCenter=true&width=480&lines=Utkarsh+Solanki;security+researcher+%7C+bca+student;seeking+cybersecurity+internship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=808080&center=true&vCenter=true&width=480&lines=Utkarsh+Solanki;security+researcher;final-year+bca+student" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,6 @@ Cyber Security 101 on TryHackMe, now working through the Jr Penetration Tester p
 (27%). Every room, lab, and script gets documented as structured technical writeups,
 not summaries.
 
-Final-year BCA student from India. Looking for a paid cybersecurity internship.
 
 ---
 
