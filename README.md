@@ -13,6 +13,8 @@ Cyber Security 101 on TryHackMe, now working through the Jr Penetration Tester p
 (27%). Every room, lab, and script gets documented as structured technical writeups,
 not summaries.
 
+Final-year BCA student from India.
+
 
 ---
 
