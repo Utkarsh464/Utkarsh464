@@ -52,13 +52,11 @@ I'm interested in offensive security, network security, Python security automati
 - Obtain a paid cybersecurity internship (SOC Analyst, Security Analyst, or junior pentest role)
 - Expand into Active Directory security and web application testing
 
-## GitHub Activity
+## GitHub
 
-<!--
-GitHub stats images from github-readme-stats
--->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Utkarsh464&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh464&layout=compact&theme=transparent&hide_border=true)
+![Followers](https://img.shields.io/github/followers/Utkarsh464?style=flat&label=Followers)
+![Stars](https://img.shields.io/github/stars/Utkarsh464?style=flat&label=Stars)
+![Repos](https://img.shields.io/badge/Public%20Repos-5-blue)
 
 ## TryHackMe
 
