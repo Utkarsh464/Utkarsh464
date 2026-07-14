@@ -75,21 +75,6 @@ $ cat learning_path
 **Planned:** Active Directory security · Cloud security fundamentals
 
 ---
-
-```
-$ terminal_status
-```
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Utkarsh464&theme=dark&hide_border=true&background=transparent&ring=808080&fire=808080&currStreakLabel=808080" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Utkarsh464?style=for-the-badge&color=808080&labelColor=0D1117&logo=github" />
-  <img src="https://img.shields.io/github/stars/Utkarsh464?style=for-the-badge&color=808080&labelColor=0D1117&logo=github" />
-  <img src="https://img.shields.io/badge/TryHackMe-utkarsshh-808080?style=for-the-badge&labelColor=0D1117&logo=tryhackme" />
-</p>
-
 ---
 
 ```
