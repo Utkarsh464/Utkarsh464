@@ -6,7 +6,7 @@
 
 📝 Final-year BCA student · TryHackMe room-crusher · Burp Suite enjoyer
 
-[![TryHackMe](https://img.shields.io/badge/utkarsshh-212C42?style=flat&label=TryHackMe&labelColor=545454&color=212121)](https://tryhackme.com/p/utkarsshh) [![PortSwigger](https://img.shields.io/badge/PortSwigger-Academy-FF6633?style=flat&labelColor=545454&color=313131)](https://portswigger.net/)
+[![TryHackMe](https://img.shields.io/badge/utkarsshh-212C42?style=flat&label=TryHackMe&labelColor=545454&color=212121)](https://tryhackme.com/p/utkarsshh)
 
 <br>
 <br>
