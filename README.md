@@ -1,11 +1,16 @@
-<pre>
- _    _ _   _                  _        _____       _             _    _ 
-| |  | | | | |                | |      / ____|     | |           | |  (_)
-| |  | | |_| | ____ _ _ __ ___| |__   | (___   ___ | | __ _ _ __ | | ___ 
-| |  | | __| |/ / _` | '__/ __| '_ \   \___ \ / _ \| |/ _` | '_ \| |/ / |
-| |__| | |_|   < (_| | |  \__ \ | | |  ____) | (_) | | (_| | | | |   <| |
- \____/ \__|_|\_\__,_|_|  |___/_| |_| |_____/ \___/|_|\__,_|_| |_|_|\_\_|
+<pre align="center">
+U   U TTTTT K  K  AAA  RRRR   SSS  H   H
+U   U   T   K K  A   A R   R S     H   H
+U   U   T   KK   AAAAA RRRR   SSS  HHHHH
+ U U    T   K K  A   A R R       S H   H
+  U     T   K  K A   A R  R  SSS  H   H
 </pre>
+
+<div align="center">
+
+**cybersecurity researcher — documenting everything, skimming nothing.**
+
+</div>
 
 ---
 
@@ -13,90 +18,81 @@
 $ whoami
 ```
 
-Cybersecurity researcher in training. Started from zero — completed Pre-Security and **Advanced Cyber Security 101** on TryHackMe, now working through the **Jr Penetration Tester** path. Every room, lab, and script gets documented as structured technical writeups, not summaries.
-
-Final-year BCA student from India.
+final-year BCA student · started at zero, now grinding the **Jr Penetration Tester** path · every lab & script ends up as a structured writeup
 
 ---
 
 ```
-$ current_mission
+$ cat ~/uptime
 ```
 
-▸ **Jr Penetration Tester** — Nmap, network recon, pentest methodology (27% complete)
-▸ **Web Security Academy** — PortSwigger labs (Access Control complete, working through SQL injection & more)
-▸ **Python tooling** — building and maintaining cyber-utils
-▸ **Lab work** — exploiting Metasploitable 2 across multiple services
-▸ **Documentation** — architecture diagrams, design decisions, troubleshooting logs
+```
+up 2.5 years in cybersecurity, improving with every commit
+currently: pre-priv-esc · root@metasploitable2 · burp <3 sqlmap
+```
 
 ---
 
 ```
-$ ls arsenal/
+$ git log --repos
 ```
 
-| Domain | Tools & Skills |
-|--------|---------------|
-| Languages | Python, Bash, SQL |
-| Systems | Linux (Ubuntu, Bash), Windows (CMD, PowerShell, AD basics) |
-| Networking | OSI/TCP-IP, DNS, HTTP, Nmap, Wireshark, tcpdump |
-| Security Tools | Metasploit, Burp Suite, Hydra, John the Ripper, Gobuster, SQLMap |
-| Security Concepts | OWASP Top 10, vulnerability assessment, exploitation, incident response, SIEM |
-| Platforms | TryHackMe, Metasploitable 2, Kali Linux, PortSwigger |
+```
+[tryhackme-writeups]  85+ rooms · 700+ pages across 3 learning paths
+[portswigger-academy] web security labs, payload-first writeups
+[labs]                metasploitable2 exploitation, troubleshooting included
+[chat-server]         multi-threaded TCP chat server, pure python
+[cyber-utils]         port scanner · hash cracker · password auditor
+[notes]               12k lines of structured study notes
+```
 
 ---
 
 ```
-$ ls featured/
+$ cat skills.txt
 ```
 
-[**tryhackme-writeups**](https://github.com/Utkarsh464/tryhackme-writeups) · 700+ pages across 3 learning paths, 85+ rooms with commands, concepts, tools, cheat sheets, diagrams — documentation at scale.
-
-[**portswigger-academy**](https://github.com/Utkarsh464/portswigger-academy) · Step-by-step Web Security Academy writeups — every lab walked through with payloads, detailed explanations, the root cause, and fixes.
-
-[**labs**](https://github.com/Utkarsh464/labs) · Penetration testing reports against Metasploitable 2 (DVWA, WebGoat, php-cgi, Samba, UnrealIRCd, vsftpd). Real exploit workflows including troubleshooting — not just successful runs.
-
-[**chat-server**](https://github.com/Utkarsh464/chat-server) · Multi-threaded TCP chat server in pure Python. Architecture diagrams, design decisions, honest retrospective. Shows understanding of sockets, threading, and TCP state.
-
-[**cyber-utils**](https://github.com/Utkarsh464/cyber-utils) · Portable Python security utilities — port scanner, hash cracker, password auditor, and PDF cracker. Built for learning and lab use.
-
-[**notes-cyber-security**](https://github.com/Utkarsh464/Notes-cyber-security) · 12,000+ lines of structured study notes across networking, Linux, web security, and Python.
+```
+language    python bash sql
+systems     linux windows(basic) bash scripting
+network     tcp/ip nmap wireshark tcpdump dns http
+tools       metasploit burp hydra john gobuster sqlmap
+mindset     owasptop10 · vuln assessment · exploitation · IR · SIEM
+```
 
 ---
 
 ```
-$ cat learning_path
+$ ./current_mission.sh
 ```
 
-**Active:** Web application security (Burp Suite, OWASP Top 10) · Python automation · Privilege escalation
+```
+active : web app security (burp · owasp top10) · python automation · privesc
+next   : active directory · cloud security
+```
 
-**Planned:** Active Directory security · Cloud security fundamentals
+---
 
-
+```
+$ nmap -sV whoami
+```
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh464&show_icons=true&hide_border=true&bg_color=0D1117&text_color=808080&icon_color=808080&title_color=808080&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117&color=808080" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0D1117&color=808080" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117&color=808080" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0D1117&color=808080" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/followers/Utkarsh464?style=for-the-badge&color=808080&labelColor=0D1117&logo=github" />
   <img src="https://img.shields.io/github/stars/Utkarsh464?style=for-the-badge&color=808080&labelColor=0D1117&logo=github" />
   <img src="https://img.shields.io/badge/TryHackMe-utkarsshh-808080?style=for-the-badge&labelColor=0D1117&logo=tryhackme" />
-  <img src="https://img.shields.io/badge/PortSwigger-Active-808080?style=for-the-badge&labelColor=0D1117&logo=burpsuite" />
 </p>
 
 ---
 
 ```
-$ cat contact.json
+$ cat contacts.json
 ```
+
 ```json
 {
   "email": "utkarshsolanki776@gmail.com",
