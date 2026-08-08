@@ -1,5 +1,3 @@
-<img align="left" src="./assets/hero.gif" style="border-radius: 10px;">
-
 ### Hey!
 
 👾 I'm **Utkarsh**.
