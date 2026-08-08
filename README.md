@@ -13,13 +13,9 @@
 $ whoami
 ```
 
-Cybersecurity researcher in training. Started from zero — completed Pre-Security and
-Cyber Security 101 on TryHackMe, now working through the Jr Penetration Tester path
-(27%). Every room, lab, and script gets documented as structured technical writeups,
-not summaries.
+Cybersecurity researcher in training. Started from zero — completed Pre-Security and **Advanced Cyber Security 101** on TryHackMe, now working through the **Jr Penetration Tester** path. Every room, lab, and script gets documented as structured technical writeups, not summaries.
 
 Final-year BCA student from India.
-
 
 ---
 
@@ -28,6 +24,7 @@ $ current_mission
 ```
 
 ▸ **Jr Penetration Tester** — Nmap, network recon, pentest methodology (27% complete)
+▸ **Web Security Academy** — PortSwigger labs (Access Control complete, working through SQL injection & more)
 ▸ **Python tooling** — building and maintaining cyber-utils
 ▸ **Lab work** — exploiting Metasploitable 2 across multiple services
 ▸ **Documentation** — architecture diagrams, design decisions, troubleshooting logs
@@ -41,27 +38,29 @@ $ ls arsenal/
 | Domain | Tools & Skills |
 |--------|---------------|
 | Languages | Python, Bash, SQL |
-| Systems | Linux (Ubuntu, CLI, bash), Windows (CMD, PowerShell, AD basics) |
+| Systems | Linux (Ubuntu, Bash), Windows (CMD, PowerShell, AD basics) |
 | Networking | OSI/TCP-IP, DNS, HTTP, Nmap, Wireshark, tcpdump |
 | Security Tools | Metasploit, Burp Suite, Hydra, John the Ripper, Gobuster, SQLMap |
 | Security Concepts | OWASP Top 10, vulnerability assessment, exploitation, incident response, SIEM |
-| Platforms | TryHackMe, Metasploitable 2, Kali Linux |
+| Platforms | TryHackMe, Metasploitable 2, Kali Linux, PortSwigger |
 
 ---
 
 ```
-$ featured_operations
+$ ls featured/
 ```
 
-[**tryhackme-writeups**](https://github.com/Utkarsh464/tryhackme-writeups) · 700+ pages across 3 learning paths, 85+ rooms with commands, concepts, tools, cheat sheets, and diagrams. Proves I can document security work at scale.
+[**tryhackme-writeups**](https://github.com/Utkarsh464/tryhackme-writeups) · 700+ pages across 3 learning paths, 85+ rooms with commands, concepts, tools, cheat sheets, diagrams — documentation at scale.
 
-[**labs**](https://github.com/Utkarsh464/labs) · Penetration testing reports against Metasploitable 2. Documents real exploit workflows including troubleshooting — not just successful runs.
+[**portswigger-academy**](https://github.com/Utkarsh464/portswigger-academy) · Step-by-step Web Security Academy writeups — every lab walked through with payloads, detailed explanations, the root cause, and fixes.
+
+[**labs**](https://github.com/Utkarsh464/labs) · Penetration testing reports against Metasploitable 2 (DVWA, WebGoat, php-cgi, Samba, UnrealIRCd, vsftpd). Real exploit workflows including troubleshooting — not just successful runs.
 
 [**chat-server**](https://github.com/Utkarsh464/chat-server) · Multi-threaded TCP chat server in pure Python. Architecture diagrams, design decisions, honest retrospective. Shows understanding of sockets, threading, and TCP state.
 
 [**cyber-utils**](https://github.com/Utkarsh464/cyber-utils) · Portable Python security utilities — port scanner, hash cracker, password auditor, and PDF cracker. Built for learning and lab use.
 
-[**notes-cyber-security**](https://github.com/Utkarsh464/Notes-cyber-security) · 12,000+ lines of structured study notes across networking, Linux, web security, Python, and AI security.
+[**notes-cyber-security**](https://github.com/Utkarsh464/Notes-cyber-security) · 12,000+ lines of structured study notes across networking, Linux, web security, and Python.
 
 ---
 
@@ -69,8 +68,7 @@ $ featured_operations
 $ cat learning_path
 ```
 
-**Active:** Web application security (Burp Suite, OWASP Top 10) · Python automation ·
-            Privilege escalation · AI security exploration
+**Active:** Web application security (Burp Suite, OWASP Top 10) · Python automation · Privilege escalation
 
 **Planned:** Active Directory security · Cloud security fundamentals
 
@@ -91,6 +89,7 @@ $ cat learning_path
   <img src="https://img.shields.io/github/followers/Utkarsh464?style=for-the-badge&color=808080&labelColor=0D1117&logo=github" />
   <img src="https://img.shields.io/github/stars/Utkarsh464?style=for-the-badge&color=808080&labelColor=0D1117&logo=github" />
   <img src="https://img.shields.io/badge/TryHackMe-utkarsshh-808080?style=for-the-badge&labelColor=0D1117&logo=tryhackme" />
+  <img src="https://img.shields.io/badge/PortSwigger-Active-808080?style=for-the-badge&labelColor=0D1117&logo=burpsuite" />
 </p>
 
 ---
@@ -100,7 +99,7 @@ $ cat contact.json
 ```
 ```json
 {
-  "email": "utkarshsolani776@gmail.com",
+  "email": "utkarshsolanki776@gmail.com",
   "linkedin": "https://linkedin.com/in/utkarsh-solanki-337806252",
   "github": "https://github.com/Utkarsh464",
   "tryhackme": "https://tryhackme.com/p/utkarsshh"
