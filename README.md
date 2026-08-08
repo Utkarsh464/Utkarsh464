@@ -15,19 +15,6 @@
 ### - Cybersecurity researcher — started from zero, now grinding the Jr Penetration Tester path
 ### - Everything I learn gets written up as a structured technical document, not a summary
 
-### - Currently :
-- 🔍 PortSwigger Web Security Academy — web app security with Burp Suite
-- 🔍 SQL injection & access control labs
-- 🔍 Metasploitable 2 — exploiting multiple services until root
-
-### - Hobbies :
-- 🎮 Terminals over consoles (but still a gamer)
-- 🍿 CTF rooms on weekends
-- ☕ Survived on coffee and hack traces
-
-</br>
-</br>
-
 # Arsenal 🛠️
 
 </br>
@@ -53,27 +40,6 @@
 | [**chat-server**](https://github.com/Utkarsh464/chat-server) | Multi-threaded TCP chat server, pure Python |
 | [**cyber-utils**](https://github.com/Utkarsh464/cyber-utils) | Port scanner · hash cracker · password auditor |
 | [**notes**](https://github.com/Utkarsh464/Notes-cyber-security) | 12k lines of structured study notes |
-
-</br>
-</br>
-
-# What I'm Into 🌶️
-
-- 🔥 Web application security (Burp Suite, OWASP Top 10)
-- 🔥 Python automation & tooling
-- 🔥 Privilege escalation
-- ⏳ Active Directory & cloud security (next up)
-
-</br>
-</br>
-
-# Stats 📊
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh464&&show_icons=true&theme=radical"/>
-  </a>
-</p>
 
 </br>
 </br>
