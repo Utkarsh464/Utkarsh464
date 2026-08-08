@@ -1,64 +1,48 @@
-# Konichiwa 👋
+<img align="left" src="./assets/hero.gif" style="border-radius: 10px;">
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="./assets/hero.gif">
+### Hey!
+
+👾 I'm **Utkarsh**.
+
+🔐 A cybersecurity student from India, documenting my way from zero to penetration testing.
+
+📝 Final-year BCA student · TryHackMe room-crusher · Burp Suite enjoyer
+
+[![TryHackMe](https://img.shields.io/badge/utkarsshh-212C42?style=flat&label=TryHackMe&labelColor=545454&color=212121)](https://tryhackme.com/p/utkarsshh) [![PortSwigger](https://img.shields.io/badge/PortSwigger-Academy-FF6633?style=flat&labelColor=545454&color=313131)](https://portswigger.net/)
+
+<br>
+<br>
+<br>
+<br>
+
+#### ⚡ Stats
+
+I've documented **85+** TryHackMe rooms across 3 learning paths, written up **25+** PortSwigger Web Security Academy labs, and published **12k+** lines of structured study notes.
+
+Current focus: web application security — specially working through **SQL injection** and **access control**, plus exploitation against **Metasploitable 2**.
+
+#### 🌀 Projects
+
+| **Writeups** | **Builds** |
+| --- | --- |
+| • [tryhackme-writeups](https://github.com/Utkarsh464/tryhackme-writeups) - 85+ rooms, 700+ pages across Pre-Security, Cyber Security 101 & Jr Penetration Tester<br>• [portswigger-academy](https://github.com/Utkarsh464/portswigger-academy) - step-by-step web security lab writeups with payloads & root causes<br>• [labs](https://github.com/Utkarsh464/labs) - exploitation reports against Metasploitable 2, DVWA & WebGoat<br>• [Notes-cyber-security](https://github.com/Utkarsh464/Notes-cyber-security) - 12k lines of structured study notes | • [chat-server](https://github.com/Utkarsh464/chat-server) - multi-threaded TCP chat server in pure Python<br>• [cyber-utils](https://github.com/Utkarsh464/cyber-utils) - port scanner, hash cracker, password auditor & more<br>• [http-proxy-lab](https://github.com/Utkarsh464/http-proxy-lab) - a learning HTTP proxy experiment |
+
+#### 🛠️ What am I working on?
+
+| **Category** | **Description** |
+| --- | --- |
+| **Studying** | Jr Penetration Tester path on TryHackMe |
+| **Lab work** | Web Security Academy (Access Control done, SQLi next) & Metasploitable 2 privesc chains |
+| **Building** | Python security tooling — cyber-utils |
+| **Documenting** | Every room, lab, and script as structured writeups |
+| **Learning** | Python automation · OSINT · Burp workflows |
+
+---
+
+💖 [Follow](https://github.com/Utkarsh464?tab=followers) or [ping me](mailto:utkarshsolanki776@gmail.com) about anything security-related!
+
+<div align="right">
+
+**~** [_github.com/Utkarsh464_](https://github.com/Utkarsh464) · [LinkedIn](https://www.linkedin.com/in/utkarsh-solanki-337806252)
+
 </div>
-
-</br>
-</br>
-
-# About Me 💬
-
-<img hight="400" width="500" alt="GIF" align="right" src="./assets/typing.gif">
-
-### - Final-year BCA student from India 🇮🇳
-### - Cybersecurity researcher — started from zero, now grinding the Jr Penetration Tester path
-### - Everything I learn gets written up as a structured technical document, not a summary
-
-# Arsenal 🛠️
-
-</br>
-
-| Category | Tools |
-|---|---|
-| **Languages** | 🐍 Python · Bash · SQL |
-| **Systems** | 🐧 Linux (Kali/Ubuntu) · Windows (CMD/PowerShell) |
-| **Networking** | 🌐 tcp/ip · DNS · HTTP · Nmap · Wireshark · tcpdump |
-| **Security Tools** | 💥 Metasploit · Burp Suite · Hydra · John the Ripper · Gobuster · SQLMap |
-| **Concepts** | 🛡️ OWASP Top 10 · vulnerability assessment · exploitation · IR · SIEM |
-
-</br>
-</br>
-
-# Projects ⚡
-
-| Repo | What's inside |
-|---|---|
-| [**tryhackme-writeups**](https://github.com/Utkarsh464/tryhackme-writeups) | 85+ rooms · 700+ pages across 3 learning paths |
-| [**portswigger-academy**](https://github.com/Utkarsh464/portswigger-academy) | Web security labs, payload-first writeups |
-| [**labs**](https://github.com/Utkarsh464/labs) | Metasploitable 2 exploitation with troubleshooting |
-| [**chat-server**](https://github.com/Utkarsh464/chat-server) | Multi-threaded TCP chat server, pure Python |
-| [**cyber-utils**](https://github.com/Utkarsh464/cyber-utils) | Port scanner · hash cracker · password auditor |
-| [**notes**](https://github.com/Utkarsh464/Notes-cyber-security) | 12k lines of structured study notes |
-
-</br>
-</br>
-
-# Contact Me 📫
-
-Hit me up about anything — a lab you're stuck on, a chat, or a good war-story exchange 😉
-
-<p align="center">
-  <a href="mailto:utkarshsolanki776@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-utkarshsolanki776-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/utkarsh-solanki-337806252"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-utkarshsolanki-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://tryhackme.com/p/utkarsshh"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-utkarsshh-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Utkarsh464?style=social&label=Follow">
-  <img src="https://komarev.com/ghpvc/?username=Utkarsh464&label=Profile%20Views&color=orange&style=flat-square">
-</p>
-
-*************
-
-> "Errors are just logs waiting to be read."
