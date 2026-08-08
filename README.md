@@ -1,103 +1,98 @@
-<pre align="center">
-U   U TTTTT K  K  AAA  RRRR   SSS  H   H
-U   U   T   K K  A   A R   R S     H   H
-U   U   T   KK   AAAAA RRRR   SSS  HHHHH
- U U    T   K K  A   A R R       S H   H
-  U     T   K  K A   A R  R  SSS  H   H
-</pre>
+# Konichiwa 👋
 
 <div align="center">
-
-**cybersecurity researcher — documenting everything, skimming nothing.**
-
+<img hight="300" width="700" alt="GIF" align="center" src="./assets/hero.gif">
 </div>
 
----
+</br>
+</br>
 
-```
-$ whoami
-```
+# About Me 💬
 
-final-year BCA student · started at zero, now grinding the **Jr Penetration Tester** path · every lab & script ends up as a structured writeup
+<img hight="400" width="500" alt="GIF" align="right" src="./assets/typing.gif">
 
----
+### - Final-year BCA student from India 🇮🇳
+### - Cybersecurity researcher — started from zero, now grinding the Jr Penetration Tester path
+### - Everything I learn gets written up as a structured technical document, not a summary
 
-```
-$ cat ~/uptime
-```
+### - Currently :
+- 🔍 PortSwigger Web Security Academy — web app security with Burp Suite
+- 🔍 SQL injection & access control labs
+- 🔍 Metasploitable 2 — exploiting multiple services until root
 
-```
-up 2.5 years in cybersecurity, improving with every commit
-currently: pre-priv-esc · root@metasploitable2 · burp <3 sqlmap
-```
+### - Hobbies :
+- 🎮 Terminals over consoles (but still a gamer)
+- 🍿 CTF rooms on weekends
+- ☕ Survived on coffee and hack traces
 
----
+</br>
+</br>
 
-```
-$ git log --repos
-```
+# Arsenal 🛠️
 
-```
-[tryhackme-writeups]  85+ rooms · 700+ pages across 3 learning paths
-[portswigger-academy] web security labs, payload-first writeups
-[labs]                metasploitable2 exploitation, troubleshooting included
-[chat-server]         multi-threaded TCP chat server, pure python
-[cyber-utils]         port scanner · hash cracker · password auditor
-[notes]               12k lines of structured study notes
-```
+</br>
 
----
+| Category | Tools |
+|---|---|
+| **Languages** | 🐍 Python · Bash · SQL |
+| **Systems** | 🐧 Linux (Kali/Ubuntu) · Windows (CMD/PowerShell) |
+| **Networking** | 🌐 tcp/ip · DNS · HTTP · Nmap · Wireshark · tcpdump |
+| **Security Tools** | 💥 Metasploit · Burp Suite · Hydra · John the Ripper · Gobuster · SQLMap |
+| **Concepts** | 🛡️ OWASP Top 10 · vulnerability assessment · exploitation · IR · SIEM |
 
-```
-$ cat skills.txt
-```
+</br>
+</br>
 
-```
-language    python bash sql
-systems     linux windows(basic) bash scripting
-network     tcp/ip nmap wireshark tcpdump dns http
-tools       metasploit burp hydra john gobuster sqlmap
-mindset     owasptop10 · vuln assessment · exploitation · IR · SIEM
-```
+# Projects ⚡
 
----
+| Repo | What's inside |
+|---|---|
+| [**tryhackme-writeups**](https://github.com/Utkarsh464/tryhackme-writeups) | 85+ rooms · 700+ pages across 3 learning paths |
+| [**portswigger-academy**](https://github.com/Utkarsh464/portswigger-academy) | Web security labs, payload-first writeups |
+| [**labs**](https://github.com/Utkarsh464/labs) | Metasploitable 2 exploitation with troubleshooting |
+| [**chat-server**](https://github.com/Utkarsh464/chat-server) | Multi-threaded TCP chat server, pure Python |
+| [**cyber-utils**](https://github.com/Utkarsh464/cyber-utils) | Port scanner · hash cracker · password auditor |
+| [**notes**](https://github.com/Utkarsh464/Notes-cyber-security) | 12k lines of structured study notes |
 
-```
-$ ./current_mission.sh
-```
+</br>
+</br>
 
-```
-active : web app security (burp · owasp top10) · python automation · privesc
-next   : active directory · cloud security
-```
+# What I'm Into 🌶️
 
----
+- 🔥 Web application security (Burp Suite, OWASP Top 10)
+- 🔥 Python automation & tooling
+- 🔥 Privilege escalation
+- ⏳ Active Directory & cloud security (next up)
 
-```
-$ nmap -sV whoami
-```
+</br>
+</br>
+
+# Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh464&show_icons=true&hide_border=true&bg_color=0D1117&text_color=808080&icon_color=808080&title_color=808080&count_private=true" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh464&&show_icons=true&theme=radical"/>
+  </a>
+</p>
+
+</br>
+</br>
+
+# Contact Me 📫
+
+Hit me up about anything — a lab you're stuck on, a chat, or a good war-story exchange 😉
+
+<p align="center">
+  <a href="mailto:utkarshsolanki776@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-utkarshsolanki776-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/utkarsh-solanki-337806252"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-utkarshsolanki-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://tryhackme.com/p/utkarsshh"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-utkarsshh-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Utkarsh464?style=for-the-badge&color=808080&labelColor=0D1117&logo=github" />
-  <img src="https://img.shields.io/github/stars/Utkarsh464?style=for-the-badge&color=808080&labelColor=0D1117&logo=github" />
-  <img src="https://img.shields.io/badge/TryHackMe-utkarsshh-808080?style=for-the-badge&labelColor=0D1117&logo=tryhackme" />
+  <img src="https://img.shields.io/github/followers/Utkarsh464?style=social&label=Follow">
+  <img src="https://komarev.com/ghpvc/?username=Utkarsh464&label=Profile%20Views&color=orange&style=flat-square">
 </p>
 
----
+*************
 
-```
-$ cat contacts.json
-```
-
-```json
-{
-  "email": "utkarshsolanki776@gmail.com",
-  "linkedin": "https://linkedin.com/in/utkarsh-solanki-337806252",
-  "github": "https://github.com/Utkarsh464",
-  "tryhackme": "https://tryhackme.com/p/utkarsshh"
-}
-```
+> "Errors are just logs waiting to be read."
