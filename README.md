@@ -23,7 +23,7 @@ Current focus: web application security — working through the **SQL injection*
 
 | **Writeups** | **Builds** |
 | --- | --- |
-| • [tryhackme-writeups](https://github.com/Utkarsh464/tryhackme-writeups) - 85+ rooms, 700+ pages across Pre-Security, Cyber Security 101 & Jr Penetration Tester<br>• [portswigger-academy](https://github.com/Utkarsh464/portswigger-academy) - step-by-step web security lab writeups with payloads & root causes<br>• [labs](https://github.com/Utkarsh464/labs) - exploitation reports against Metasploitable 2, DVWA & WebGoat<br>• [Notes-cyber-security](https://github.com/Utkarsh464/Notes-cyber-security) - 12k lines of structured study notes | • [chat-server](https://github.com/Utkarsh464/chat-server) - multi-threaded TCP chat server in pure Python<br>• [cyber-utils](https://github.com/Utkarsh464/cyber-utils) - port scanner, hash cracker, password auditor & blind SQLi extractor<br>• [http-proxy-lab](https://github.com/Utkarsh464/http-proxy-lab) - a learning HTTP proxy experiment |
+| • [tryhackme-writeups](https://github.com/Utkarsh464/tryhackme-writeups) - 85+ rooms, 700+ pages across Pre-Security, Cyber Security 101 & Jr Penetration Tester<br>• [portswigger-academy](https://github.com/Utkarsh464/portswigger-academy) - step-by-step web security lab writeups with payloads & root causes<br>• [labs](https://github.com/Utkarsh464/labs) - exploitation reports against Metasploitable 2, DVWA & WebGoat<br>• [Notes-cyber-security](https://github.com/Utkarsh464/Notes-cyber-security) - 12k lines of structured study notes | • [chat-server](https://github.com/Utkarsh464/chat-server) - multi-threaded TCP chat server in pure Python<br>• [pentools](https://github.com/Utkarsh464/pentools) - port scanner, hash cracker, password auditor & blind SQLi extractor<br>• [http-proxy-lab](https://github.com/Utkarsh464/http-proxy-lab) - a learning HTTP proxy experiment |
 
 #### 🛠️ What am I working on?
 
@@ -31,7 +31,7 @@ Current focus: web application security — working through the **SQL injection*
 | --- | --- |
 | **Studying** | Jr Penetration Tester path on TryHackMe |
 | **Lab work** | Web Security Academy (Access Control done, SQLi 13/18 in progress) & Metasploitable 2 privesc chains |
-| **Building** | Python security tooling — cyber-utils |
+| **Building** | Python security tooling — pentools |
 | **Documenting** | Every room, lab, and script as structured writeups |
 | **Learning** | Python automation · OSINT · Burp workflows |
 
