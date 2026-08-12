@@ -15,22 +15,22 @@
 
 #### ⚡ Stats
 
-I've documented **85+** TryHackMe rooms across 3 learning paths, written up **25+** PortSwigger Web Security Academy labs, and published **12k+** lines of structured study notes.
+I've documented **85+** TryHackMe rooms across 3 learning paths, written up **30+** PortSwigger Web Security Academy labs, and published **12k+** lines of structured study notes.
 
-Current focus: web application security — specially working through **SQL injection** and **access control**, plus exploitation against **Metasploitable 2**.
+Current focus: web application security — working through the **SQL injection** module (13/18 labs, including blind SQLi on Oracle) and **access control**, plus exploitation against **Metasploitable 2**.
 
 #### 🌀 Projects
 
 | **Writeups** | **Builds** |
 | --- | --- |
-| • [tryhackme-writeups](https://github.com/Utkarsh464/tryhackme-writeups) - 85+ rooms, 700+ pages across Pre-Security, Cyber Security 101 & Jr Penetration Tester<br>• [portswigger-academy](https://github.com/Utkarsh464/portswigger-academy) - step-by-step web security lab writeups with payloads & root causes<br>• [labs](https://github.com/Utkarsh464/labs) - exploitation reports against Metasploitable 2, DVWA & WebGoat<br>• [Notes-cyber-security](https://github.com/Utkarsh464/Notes-cyber-security) - 12k lines of structured study notes | • [chat-server](https://github.com/Utkarsh464/chat-server) - multi-threaded TCP chat server in pure Python<br>• [cyber-utils](https://github.com/Utkarsh464/cyber-utils) - port scanner, hash cracker, password auditor & more<br>• [http-proxy-lab](https://github.com/Utkarsh464/http-proxy-lab) - a learning HTTP proxy experiment |
+| • [tryhackme-writeups](https://github.com/Utkarsh464/tryhackme-writeups) - 85+ rooms, 700+ pages across Pre-Security, Cyber Security 101 & Jr Penetration Tester<br>• [portswigger-academy](https://github.com/Utkarsh464/portswigger-academy) - step-by-step web security lab writeups with payloads & root causes<br>• [labs](https://github.com/Utkarsh464/labs) - exploitation reports against Metasploitable 2, DVWA & WebGoat<br>• [Notes-cyber-security](https://github.com/Utkarsh464/Notes-cyber-security) - 12k lines of structured study notes | • [chat-server](https://github.com/Utkarsh464/chat-server) - multi-threaded TCP chat server in pure Python<br>• [cyber-utils](https://github.com/Utkarsh464/cyber-utils) - port scanner, hash cracker, password auditor & blind SQLi extractor<br>• [http-proxy-lab](https://github.com/Utkarsh464/http-proxy-lab) - a learning HTTP proxy experiment |
 
 #### 🛠️ What am I working on?
 
 | **Category** | **Description** |
 | --- | --- |
 | **Studying** | Jr Penetration Tester path on TryHackMe |
-| **Lab work** | Web Security Academy (Access Control done, SQLi next) & Metasploitable 2 privesc chains |
+| **Lab work** | Web Security Academy (Access Control done, SQLi 13/18 in progress) & Metasploitable 2 privesc chains |
 | **Building** | Python security tooling — cyber-utils |
 | **Documenting** | Every room, lab, and script as structured writeups |
 | **Learning** | Python automation · OSINT · Burp workflows |
