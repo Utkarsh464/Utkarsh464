@@ -6,6 +6,8 @@
 
 📝 Final-year BCA student · TryHackMe room-crusher · Burp Suite enjoyer
 
+🔍 Seeking a cybersecurity internship in web application security / penetration testing for 2026.
+
 [![TryHackMe](https://img.shields.io/badge/utkarsshh-212C42?style=flat&label=TryHackMe&labelColor=545454&color=212121)](https://tryhackme.com/p/utkarsshh)
 
 <br>
@@ -15,25 +17,25 @@
 
 #### ⚡ Stats
 
-I've documented **85+** TryHackMe rooms across 3 learning paths, written up **30+** PortSwigger Web Security Academy labs, and published **12k+** lines of structured study notes.
+I've documented **85+** TryHackMe rooms across 3 learning paths, written up **35+** PortSwigger Web Security Academy labs, and published **12k+** lines of structured study notes.
 
-Current focus: web application security — working through the **SQL injection** module (13/18 labs, including blind SQLi on Oracle) and **access control**, plus exploitation against **Metasploitable 2**.
+Current focus: web application security — working through the **SQL injection** module (15/18 labs, including blind SQLi on Oracle) and **access control**, plus exploitation against **Metasploitable 2**.
 
 #### 🌀 Projects
 
-| **Writeups** | **Builds** |
-| --- | --- |
-| • [tryhackme-writeups](https://github.com/Utkarsh464/tryhackme-writeups) - 85+ rooms, 700+ pages across Pre-Security, Cyber Security 101 & Jr Penetration Tester<br>• [portswigger-academy](https://github.com/Utkarsh464/portswigger-academy) - step-by-step web security lab writeups with payloads & root causes<br>• [labs](https://github.com/Utkarsh464/labs) - exploitation reports against Metasploitable 2, DVWA & WebGoat<br>• [Notes-cyber-security](https://github.com/Utkarsh464/Notes-cyber-security) - 12k lines of structured study notes | • [chat-server](https://github.com/Utkarsh464/chat-server) - multi-threaded TCP chat server in pure Python<br>• [pentools](https://github.com/Utkarsh464/pentools) - port scanner, hash cracker, password auditor & blind SQLi extractor<br>• [http-proxy-lab](https://github.com/Utkarsh464/http-proxy-lab) - a learning HTTP proxy experiment |
+| **Writeups**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | **Builds**                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| • [tryhackme-writeups](https://github.com/Utkarsh464/tryhackme-writeups) - 85+ rooms, 700+ pages across Pre-Security, Cyber Security 101 & Jr Penetration Tester<br>• [portswigger-academy](https://github.com/Utkarsh464/portswigger-academy) - step-by-step web security lab writeups with payloads & root causes<br>• [labs](https://github.com/Utkarsh464/labs) - exploitation reports against Metasploitable 2, DVWA & WebGoat<br>• [Notes-cyber-security](https://github.com/Utkarsh464/Notes-cyber-security) - 12k lines of structured study notes | • [chat-server](https://github.com/Utkarsh464/chat-server) - multi-threaded TCP chat server in pure Python<br>• [pentools](https://github.com/Utkarsh464/pentools) - port scanner, hash cracker, password auditor & blind SQLi extractor<br>• [http-proxy-lab](https://github.com/Utkarsh464/http-proxy-lab) - a learning HTTP proxy experiment<br>• [dir-brute](https://github.com/Utkarsh464/dir-brute) - directory brute-forcer and crawler built with Python (argparse, threading) |
 
 #### 🛠️ What am I working on?
 
-| **Category** | **Description** |
-| --- | --- |
-| **Studying** | Jr Penetration Tester path on TryHackMe |
-| **Lab work** | Web Security Academy (Access Control done, SQLi 13/18 in progress) & Metasploitable 2 privesc chains |
-| **Building** | Python security tooling — pentools |
-| **Documenting** | Every room, lab, and script as structured writeups |
-| **Learning** | Python automation · OSINT · Burp workflows |
+| **Category**    | **Description**                                                                                      |
+| --------------- | ---------------------------------------------------------------------------------------------------- |
+| **Studying**    | Jr Penetration Tester path on TryHackMe                                                              |
+| **Lab work**    | Web Security Academy (Access Control done, SQLi 15/18 in progress) & Metasploitable 2 privesc chains |
+| **Building**    | Python security tooling — pentools                                                                   |
+| **Documenting** | Every room, lab, and script as structured writeups                                                   |
+| **Learning**    | Python automation · OSINT · Burp workflows                                                           |
 
 ---
 
