@@ -11,9 +11,6 @@
 [GitHub](https://github.com/Utkarsh464) ·
 [Email](mailto:utkarshsolanki776@gmail.com)
 
-<pre>utkarsh@security ~ % focus
-web application security · penetration testing</pre>
-
 </div>
 
 ---
