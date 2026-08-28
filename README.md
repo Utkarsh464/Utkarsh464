@@ -1,48 +1,69 @@
-### Hey!
+<div align="center">
 
-👾 I'm **Utkarsh**.
+# UTKARSH SOLANKI
 
-🔐 A cybersecurity student from India, documenting my way from zero to penetration testing.
-
-📝 Final-year BCA student · TryHackMe room-crusher · Burp Suite enjoyer
-
-🔍 Seeking a cybersecurity internship in web application security / penetration testing.
+### Web Application Security · Penetration Testing
 
 [![TryHackMe](https://img.shields.io/badge/utkarsshh-212C42?style=flat&label=TryHackMe&labelColor=545454&color=212121)](https://tryhackme.com/p/utkarsshh)
 
-<br>
-<br>
-<br>
-<br>
+[TryHackMe](https://tryhackme.com/p/utkarsshh) ·
+[LinkedIn](https://www.linkedin.com/in/utkarsh-solanki-337806252) ·
+[GitHub](https://github.com/Utkarsh464) ·
+[Email](mailto:utkarshsolanki776@gmail.com)
 
-#### ⚡ What I do
+<pre>utkarsh@security ~ % focus
+web application security · penetration testing</pre>
 
-I document my cybersecurity learning in public — TryHackMe rooms, PortSwigger Web Security Academy labs, and hands-on exploitation against lab targets like Metasploitable 2, DVWA, and WebGoat. I also build small Python tools to understand vulnerabilities at the protocol level.
-
-Current focus: web application security — SQL injection (including blind SQLi on Oracle) and access control.
-
-#### 🌀 Projects
-
-| **Writeups**                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Builds**                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| • [tryhackme-writeups](https://github.com/Utkarsh464/tryhackme-writeups) - structured documentation across Pre-Security, Cyber Security 101 & Jr Penetration Tester paths<br>• [portswigger-academy](https://github.com/Utkarsh464/portswigger-academy) - step-by-step web security lab writeups with payloads & root causes<br>• [labs](https://github.com/Utkarsh464/labs) - exploitation reports against Metasploitable 2, DVWA & WebGoat | • [chat-server](https://github.com/Utkarsh464/chat-server) - multi-threaded TCP chat server in pure Python<br>• [pentools](https://github.com/Utkarsh464/pentools) - port scanner, hash cracker, password auditor & blind SQLi extractor<br>• [http-proxy-lab](https://github.com/Utkarsh464/http-proxy-lab) - a learning HTTP proxy experiment<br>• [dir-brute](https://github.com/Utkarsh464/dir-brute) - directory brute-forcer and crawler built with Python (argparse, threading) |
-
-#### 🛠️ What am I working on?
-
-| **Category**    | **Description**                                                                |
-| --------------- | ------------------------------------------------------------------------------ |
-| **Studying**    | Jr Penetration Tester path on TryHackMe                                        |
-| **Lab work**    | Web Security Academy (Access Control & SQLi) & Metasploitable 2 privesc chains |
-| **Building**    | Python security tooling — pentools                                             |
-| **Documenting** | Every room, lab, and script as structured writeups                             |
-| **Learning**    | Python automation · OSINT · Burp workflows                                     |
+</div>
 
 ---
 
-💖 [Follow](https://github.com/Utkarsh464?tab=followers) or [ping me](mailto:utkarshsolanki776@gmail.com) about anything security-related!
+## Focus
 
-<div align="right">
+Web application security and penetration testing, built through hands-on labs and self-written tooling:
 
-**~** [_github.com/Utkarsh464_](https://github.com/Utkarsh464) · [LinkedIn](https://www.linkedin.com/in/utkarsh-solanki-337806252)
+- SQL injection — including blind SQLi
+- Access control / IDOR
+- SSRF
+- XSS
+- Path traversal
+- Offensive Python — scanners, brute-forcers, exploit helpers
+- HTTP internals, proxies, and raw sockets
+
+## Selected work
+
+### Web Security
+
+- **[PortSwigger Academy](https://github.com/Utkarsh464/portswigger-academy)** — web security lab writeups with payloads and root-cause analysis
+- **HTB writeups** <sub>(private)</sub> — independent enumeration and exploitation reasoning
+- **[TryHackMe Writeups](https://github.com/Utkarsh464/tryhackme-writeups)** — notes across Pre-Security, Cyber Security 101, and Jr Penetration Tester
+- **[labs](https://github.com/Utkarsh464/labs)** — exploitation writeups against Metasploitable 2, DVWA, and WebGoat
+
+### Security Tooling
+
+- **[pentools](https://github.com/Utkarsh464/pentools)** — Python toolkit: port scanner, hash cracker, and a blind SQL injection extractor
+- **[http-proxy-lab](https://github.com/Utkarsh464/http-proxy-lab)** — HTTP proxy and request parser built from raw sockets
+- **[dir-brute](https://github.com/Utkarsh464/dir-brute)** — multithreaded directory brute-forcer and crawler
+
+## Currently learning
+
+- DOM-based XSS and JavaScript fundamentals for web security
+- Authentication, API security, and JWT
+- Business-logic vulnerabilities
+- Hack The Box and independent target enumeration
+- Penetration-testing methodology
+
+## Looking for
+
+Cybersecurity internships in **application security** and **penetration testing**.
+
+---
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/utkarsh-solanki-337806252) ·
+[TryHackMe](https://tryhackme.com/p/utkarsshh) ·
+[GitHub](https://github.com/Utkarsh464) ·
+[Email](mailto:utkarshsolanki776@gmail.com)
 
 </div>
