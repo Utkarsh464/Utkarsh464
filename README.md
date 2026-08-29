@@ -56,7 +56,7 @@ Cybersecurity internships in **application security** and **penetration testing*
 
 ## Activity
 
-[![Utkarsh's GitHub activity graph](https://github-activity-chart.vercel.app/graph?username=Utkarsh464&from=2026-08-01&to=2026-08-30&theme=minimal&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Utkarsh's GitHub activity graph](https://github-activity-chart.vercel.app/graph?username=Utkarsh464&theme=github-compact&days=30&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
