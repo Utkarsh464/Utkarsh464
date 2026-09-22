@@ -8,6 +8,10 @@
 [TryHackMe](https://tryhackme.com/p/utkarsshh) ·
 [Email](mailto:utkarshsolanki776@gmail.com)
 
+[![Rank](https://img.shields.io/badge/Rank-93066%20%7C%20Top%204%25-%23212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/utkarsshh) ·
+[![Rooms](https://img.shields.io/badge/Rooms%20Completed-127-%23212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/utkarsshh) ·
+[![Badges](https://img.shields.io/badge/Badges-16-%23212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/utkarsshh)
+
 </div>
 
 ---
@@ -28,7 +32,7 @@ web app security and pentesting — learning through labs, writeups, and buildin
 
 ## where ive been learning
 
-- 85+ TryHackMe rooms — Pre-Security, Cyber Security 101, Jr Penetration Tester path
+- 127 TryHackMe rooms — Pre-Security, Cyber Security 101, Jr Penetration Tester path
 - 34 PortSwigger labs across Access Control, SQLi, XSS, SSRF, and Path Traversal, with writeups for each
 - 10 documented labs on DVWA, WebGoat, and Metasploitable 2 — 4 CVEs exploited with Metasploit
 
