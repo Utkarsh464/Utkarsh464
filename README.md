@@ -33,8 +33,8 @@ web app security and pentesting — learning through labs, writeups, and buildin
 ## where ive been learning
 
 - 127 TryHackMe rooms — Pre-Security, Cyber Security 101, Jr Penetration Tester path
-- 34 PortSwigger labs across Access Control, SQLi, XSS, SSRF, and Path Traversal, with writeups for each
-- 10 documented labs on DVWA, WebGoat, and Metasploitable 2 — 4 CVEs exploited with Metasploit
+- 42 PortSwigger labs across Access Control, SQLi, XSS, SSRF, and Path Traversal, with writeups for each
+- 11 documented labs on DVWA, WebGoat, and Metasploitable 2 — 4 CVEs exploited with Metasploit
 
 ## currently learning
 
